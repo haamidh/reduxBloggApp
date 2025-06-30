@@ -36,7 +36,7 @@ A full-stack blog application built with **Next.js**, **Redux Toolkit**, **Expre
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/haamidh/reduxPractice1.git
+git clone https://github.com/haamidh/reduxBloggApp.git
 cd reduxPractice1
 ```
 

@@ -76,7 +76,7 @@ The frontend will run on http://localhost:3000
 ## 📁 Project Structure
 
 ```
-reduxPractice1/
+reduxBloggApp/
 ├── backend/
 │   ├── config/
 │   │   └── db.js
